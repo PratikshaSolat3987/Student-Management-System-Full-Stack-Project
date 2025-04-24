@@ -1,5 +1,5 @@
 # Student-Management-System-Full-Stack-Project
-The Student Management System (SMS) is a web application designed to manage student data efficiently. It allows administrators to perform CRUD operations (Create, Read, Update, Delete) on student records, including details such as first name, last name, email, phone number, and enrollment date.
+The Student Management System (SMS) is a web application designed to manage student data efficiently. It allows administrators to perform CRUD operations (Create, Read, Update, Delete) on student records, including details such as first name, last name, email, phone number, and enrollment date. Built using Java, Spring Boot, PostgreSQL, JPA, and REST API for the backend, and HTML, CSS, JavaScript, TypeScript, and Angular for the frontend.
 # Angular19 Project Set Up
 ### Prerequisites
   * Node.js (v20 or later)
