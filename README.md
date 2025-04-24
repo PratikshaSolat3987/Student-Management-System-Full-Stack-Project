@@ -96,6 +96,7 @@ src/app/
 
 # Postman Testing Results
 ![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/3c48ac27d787dca36978215fa4144bc27302edd7/2025-04-20%20(6).png)
+`---`
 ![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/231b29b2fe26677e04d47054920bacace91e68ef/2025-04-20%20(7).png)
 ![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/231b29b2fe26677e04d47054920bacace91e68ef/2025-04-20%20(8).png)
 ![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/231b29b2fe26677e04d47054920bacace91e68ef/2025-04-20%20(9).png)
