@@ -125,6 +125,29 @@ src/app/
 ![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/231b29b2fe26677e04d47054920bacace91e68ef/2025-04-20%20(15).png)
 
 
+# FrontEnd Result (Angular19)
+
+![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/82bc0083b6a9d8e80f98585a0faf267b377b81b2/Screenshot%202025-04-22%20183753.png)
+
+
+![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/82bc0083b6a9d8e80f98585a0faf267b377b81b2/Screenshot%202025-04-22%20183914.png)
+
+
+![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/cfafae1e847ae76ef3365611a4993816d1c1281d/Screenshot%202025-04-22%20183937.png)
+
+
+![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/cfafae1e847ae76ef3365611a4993816d1c1281d/Screenshot%202025-04-22%20183953.png)
+
+
+![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/cfafae1e847ae76ef3365611a4993816d1c1281d/Screenshot%202025-04-22%20184019.png)
+
+
+![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/cfafae1e847ae76ef3365611a4993816d1c1281d/Screenshot%202025-04-22%20184055.png)
+
+
+
+
+
 
 
 
