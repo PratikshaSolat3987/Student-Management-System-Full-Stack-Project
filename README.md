@@ -95,4 +95,5 @@ src/app/
 
 
 # Postman Testing Results
+![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/3c48ac27d787dca36978215fa4144bc27302edd7/2025-04-20%20(6).png)
 
