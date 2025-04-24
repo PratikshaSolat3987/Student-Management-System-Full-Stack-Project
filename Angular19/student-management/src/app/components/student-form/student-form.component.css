@@ -1,0 +1,100 @@
+body {
+    background: linear-gradient(to right, #e3f2fd, #fce4ec);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2.5rem;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 20px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #3f51b5;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+  }
+  
+  label {
+    font-weight: 600;
+    color: #555;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+  
+  input.form-control {
+    border-radius: 10px;
+    padding: 0.65rem 1rem;
+    border: 1px solid #ccc;
+    transition: border 0.3s, box-shadow 0.3s;
+    font-size: 1rem;
+  }
+  
+  input.form-control:focus {
+    border-color: #3f51b5;
+    box-shadow: 0 0 0 0.2rem rgba(63, 81, 181, 0.2);
+    outline: none;
+  }
+  
+  .is-invalid {
+    border-color: #e53935;
+    background-color: #fff0f0;
+  }
+  
+  .invalid-feedback {
+    color: #e53935;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+  }
+  
+  button.btn {
+    padding: 0.6rem 1.8rem;
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+  }
+  
+  button.btn-primary {
+    background: linear-gradient(to right, #4a90e2, #007bff);
+    border: none;
+    color: white;
+  }
+  
+  button.btn-primary:hover {
+    background: linear-gradient(to right, #357ae8, #0056b3);
+    transform: translateY(-1px);
+  }
+  
+  button.btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+  
+  .btn-secondary {
+    background: linear-gradient(to right, #6c757d, #495057);
+    color: white;
+    border: none;
+  }
+  
+  .btn-secondary:hover {
+    background: linear-gradient(to right, #5a6268, #343a40);
+    transform: translateY(-1px);
+  }
+  
+  @media (max-width: 576px) {
+    .container {
+      padding: 1.5rem;
+    }
+  
+    button.btn {
+      width: 100%;
+      margin-bottom: 0.75rem;
+    }
+  }
+  
