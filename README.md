@@ -125,9 +125,6 @@ src/app/
 ![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/231b29b2fe26677e04d47054920bacace91e68ef/2025-04-20%20(15).png)
 
 
-# Database 
-![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/52f03983bbc89e20a826895e8b903a57c930b6da/Screenshot%202025-05-01%20110117.png)
-
 
 # FrontEnd Result (Angular19)
 
@@ -147,6 +144,16 @@ src/app/
 
 
 ![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/cfafae1e847ae76ef3365611a4993816d1c1281d/Screenshot%202025-04-22%20184055.png)
+
+
+![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/f4610333901c08e8ca84ab969299eee17a58ec85/Screenshot%202025-05-01%20111647.png)
+
+
+# Database 
+![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/52f03983bbc89e20a826895e8b903a57c930b6da/Screenshot%202025-05-01%20110117.png)
+
+
+
 
 
 
