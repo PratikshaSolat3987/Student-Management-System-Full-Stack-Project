@@ -125,6 +125,10 @@ src/app/
 ![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/231b29b2fe26677e04d47054920bacace91e68ef/2025-04-20%20(15).png)
 
 
+# Database 
+![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/52f03983bbc89e20a826895e8b903a57c930b6da/Screenshot%202025-05-01%20110117.png)
+
+
 # FrontEnd Result (Angular19)
 
 ![image alt](https://github.com/PratikshaSolat3987/Student-Management-System-Full-Stack-Project/blob/82bc0083b6a9d8e80f98585a0faf267b377b81b2/Screenshot%202025-04-22%20183753.png)
